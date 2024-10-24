@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CROSSW16
 - 👀 I’m interested in martial arts and web develepment 
-- 🌱 I’m currently learning im going trought a full stack course 
-- 💞️ I’m looking to collaborate on wathever 
+- 🌱 I’m currently learning im doing a full stack course 
+- 💞️ I’m looking to collaborate on whatever
 - 📫 How to reach me via smoke signals
 - - ⚡ Fun fact: I like dogs 
 
